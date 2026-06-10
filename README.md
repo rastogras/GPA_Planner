@@ -1,3 +1,8 @@
+     GROUP MEMBERS 
+John Kigotho - SCT212-0215/2024
+John Njogu - SCT212-0450/2024
+Roy Kiptoo - SCT212-0451/2024
+
 # JKUAT GPA & Graduation Planner
 ## Setup Guide for VS Code + XAMPP
 
